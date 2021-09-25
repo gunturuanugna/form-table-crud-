@@ -1,0 +1,11 @@
+tr:hover {background-color: #cccccc;}
+thead{background-color: #3ccccc!important;
+}
+body{
+  margin:30px;
+}
+#edit>a{
+  cursor:pointer;
+  text-decoration:underline;
+    text-decoration-color: blue; 
+}
